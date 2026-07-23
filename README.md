@@ -96,17 +96,23 @@ This Excel model demonstrates how interactive dashboards and stress testing can 
 ---
 ## 📸 Project Screenshots
 
-### Sheet 1  
+### 📊 Sheet 1 – Carbon Emission Tracker
 
 ![Carbon Emission Tracker](CARBON EMISSION TRACKER.png)
 
-### Sheet 2
+---
+
+### ⚙️ Sheet 2 – Carbon Stress Testing Engine
 
 ![Carbon Stress Testing Engine](CARBON STRESS TESTING ENGINE.png)
 
-### Sheet 3
+---
+
+### 📈 Sheet 3 – Executive Summary Dashboard
 
 ![Executive Summary Dashboard](EXECUTIVE SUMMARY DASHBOARD.png)
+
+---
 
 # 🚀 Future Roadmap
 
